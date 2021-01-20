@@ -1,0 +1,85 @@
+
+#agoraLogo {
+    width: 700px;
+    height: 240px;
+    margin-left: 10%;
+    margin-top: 20%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+
+}
+#left-section{
+    background-color: 099dfd;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 7%;
+    width: 25%;
+    height: 50vh;
+    padding: 5%;
+}
+
+#flexContainer{
+    display: flex;
+    flex-direction: row;
+
+}
+
+#mainImage {
+    width: 70%;
+    height: 50%;
+    margin-left:15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-bottom: 30%;
+}
+
+#bottomText{
+    font-size: 7rem;
+    color: white;
+}
+
+#right-section{
+    background-color: white;
+    
+    box-shadow: 10px 10px 100px 5px #ccc;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 0;
+    width: 22%;
+    height: 39.7vh;
+    padding: 5%;
+
+    padding-top: 10%;
+}
+
+#colored {
+    color: #099dfd;
+}
+
+#headingText {
+    font-size: 8rem;
+}
+
+#emailTab {
+    margin-top: 10%;
+}
+
+input {
+    margin-top: 3%;
+    width: 95%;
+    height: 6%;
+    font-size: 1.25rem;
+    border: 5px solid #099dfd;
+    border-radius: 15px;
+}
+
+#loginButton {
+    margin-top: 5%;;
+    background-color: #099dfd;
+    width: 20%;
+    height: 7%;
+    border-radius: 15px;
+}
